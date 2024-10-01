@@ -1,0 +1,12 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+E:/Files/vivado/Experience_six/Experience_six.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+E:/Files/vivado/Experience_six/Experience_six.srcs/sim_1/new/tb.v,1717048230,verilog,,,,tb,,,,,,,,
+E:/Files/vivado/Experience_six/Experience_six.srcs/sources_1/new/adder.v,1717047952,verilog,,E:/Files/vivado/Experience_six/Experience_six.srcs/sources_1/new/alu.v,,adder,,,,,,,,
+E:/Files/vivado/Experience_six/Experience_six.srcs/sources_1/new/alu.v,1717433549,verilog,,E:/Files/vivado/Experience_six/Experience_six.srcs/sources_1/new/data_ram.v,,alu,,,,,,,,
+E:/Files/vivado/Experience_six/Experience_six.srcs/sources_1/new/data_ram.v,1717048049,verilog,,E:/Files/vivado/Experience_six/Experience_six.srcs/sources_1/new/inst_rom.v,,data_ram,,,,,,,,
+E:/Files/vivado/Experience_six/Experience_six.srcs/sources_1/new/inst_rom.v,1717433749,verilog,,E:/Files/vivado/Experience_six/Experience_six.srcs/sources_1/new/regfile.v,,inst_rom,,,,,,,,
+E:/Files/vivado/Experience_six/Experience_six.srcs/sources_1/new/regfile.v,1717048018,verilog,,E:/Files/vivado/Experience_six/Experience_six.srcs/sources_1/new/single_cycle_cpu.v,,regfile,,,,,,,,
+E:/Files/vivado/Experience_six/Experience_six.srcs/sources_1/new/single_cycle_cpu.v,1717433754,verilog,,E:/Files/vivado/Experience_six/Experience_six.srcs/sim_1/new/tb.v,,single_cycle_cpu,,,,,,,,

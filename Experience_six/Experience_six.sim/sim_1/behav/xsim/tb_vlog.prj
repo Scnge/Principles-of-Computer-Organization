@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Experience_six.srcs/sources_1/new/adder.v" \
+"../../../../Experience_six.srcs/sources_1/new/alu.v" \
+"../../../../Experience_six.srcs/sources_1/new/data_ram.v" \
+"../../../../Experience_six.srcs/sources_1/new/inst_rom.v" \
+"../../../../Experience_six.srcs/sources_1/new/regfile.v" \
+"../../../../Experience_six.srcs/sources_1/new/single_cycle_cpu.v" \
+"../../../../Experience_six.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
